@@ -15,7 +15,7 @@
    - Framework Preset: Other
    - Root Directory: ./
    - Build Command: npm run build
-   - Output Directory: client/dist
+   - Output Directory: dist/public
    - Install Command: npm install
 
 5. Add Environment Variables:
